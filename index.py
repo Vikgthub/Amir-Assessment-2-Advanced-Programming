@@ -17,12 +17,7 @@ from io import BytesIO
 
 
 
-
-
-
-
 # -----------------------------------------------------------------------------------------------------------------
-
 
 
 # create a color palet (I chose yellow and red to emphasize that its a dish recepie app, along with a dark back ground)
